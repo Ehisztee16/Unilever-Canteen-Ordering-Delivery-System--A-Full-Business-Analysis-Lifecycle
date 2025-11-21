@@ -15,6 +15,8 @@ I worked with a team to analyse and redesign Unilever’s canteen experience by 
 
 [Project Deliverables](https://github.com/Ehisztee16/Unilever-Canteen-Ordering-Delivery-System--A-Full-Business-Analysis-Lifecycle/blob/main/README.md#project-deliverables)
 
+[Conclusion](https://github.com/Ehisztee16/Unilever-Canteen-Ordering-Delivery-System--A-Full-Business-Analysis-Lifecycle/blob/main/README.md#conclusion)
+
 
 # Project Overview
 Unilever’s UK offices have about 1,500 employees across 12 floors, but only two canteens with limited seating. During peak lunch hours, staff lose an average of 30 to 35 minutes waiting in long queues for food and seating, leading to reduced productivity and dissatisfaction. This proposed online canteen ordering and delivery system allows employees to pre-order meals before 11 a.m., have them delivered to their workstations, and streamline kitchen operations, inventory planning, and payroll deductions. This solution aims to reduce food waste, improve employee satisfaction, and modernize Unilever’s internal operations.
@@ -112,3 +114,6 @@ These were broken into sprints, prioritized, and tracked in Jira. They demonstra
 
 <img width="1530" height="672" alt="Unilever Sprint Backlog" src="https://github.com/user-attachments/assets/772687ba-a995-4faa-94fc-153f9ca8c03c" />
 
+# Conclusion
+
+The canteen ordering system project addresses major operational inefficiencies within Unilever’s existing lunch process, including long queues, food shortages, and significant productivity loss. By introducing a digital pre-ordering and delivery solution, the business stands to reduce waiting time, eliminate food waste, improve employee satisfaction, and streamline payroll deductions. The system is aligned with Unilever’s digital transformation goals and has strong ROI potential, paying for itself within the first month of go-live. This structured work ensures the BA's role in showing clarity of requirements, alignment across stakeholders, and a clear roadmap for implementation.
