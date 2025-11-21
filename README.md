@@ -63,3 +63,52 @@ I worked with a team and my responsiblities included the following and in no par
 
 # Project Deliverables
 
+- **Stakeholder List**
+
+This deliverable identifies everyone affected by the new canteen system, such as employees, chefs, the canteen manager, payroll, HR, IT, and senior management.
+
+- **Stakeholder Power–Interest Matrix**
+
+This matrix organizes stakeholders based on how much power they hold and how interested they are in the project, making it easier to decide who needs close management, who should be kept informed, and who should be kept satisfied throughout the system’s development.
+
+- **Full Business Case Report**
+
+The business case presents the current problems, evaluates different solution options, includes cost estimates, and proves the return on investment. It gives senior management clear reasons to approve the new online ordering system by showing how it improves productivity, reduces waste, and aligns with Unilever's digital transformation goals.
+
+- **RACI Matrix**
+
+This clarifies project roles by specifying who is Responsible, Accountable, Consulted, and Informed for each major task. This prevents confusion, improves coordination, and ensures every aspect of the implementation is clearly owned by the right stakeholders.
+
+<img width="774" height="956" alt="RACI MATRIX" src="https://github.com/user-attachments/assets/df6768ac-c042-4f99-82fa-e2d8f5a7508a" />
+
+
+- **Future State Process Flow and Swimlane Diagram**
+
+This deliverable visually maps how the entire ordering, preparation, delivery, and payroll deduction process will work once the new system is implemented. It helps all stakeholders understand how their responsibilities fit together and how the new workflow eliminates current inefficiencies.
+
+<img width="913" height="888" alt="To-be Swinlane diagram" src="https://github.com/user-attachments/assets/cb643f8b-24a3-43e8-9fb7-bb8b0084cece" />
+
+- **Functional and Non-Functional Requirements**
+
+These requirements define what the system must do, such as menu viewing, order creation, delivery tracking, and payroll deduction, as well as how the system should perform in terms of speed, security, reliability, and usability.
+
+<img width="910" height="947" alt="Requirements" src="https://github.com/user-attachments/assets/b95f181a-2ad1-48fc-81fd-4d20ddc93747" />
+
+
+- **User Stories and Acceptance Criteria**
+
+This translates the requirements into simple, goal-focused statements from the perspective of employees, canteen staff, and managers. Acceptance criteria define what must be true for each story to be considered complete, guiding the development team and supporting testing.
+
+<img width="1314" height="948" alt="User story with AC" src="https://github.com/user-attachments/assets/6dd6222e-4e38-4bb0-bf8b-f0591ff59436" />
+
+
+- **Jira Backlog, Board, and Sprints**
+
+These were broken into sprints, prioritized, and tracked in Jira. They demonstrate Agile planning, sprint structuring, and how user stories were organized for development and testing.
+
+<img width="1900" height="947" alt="Jira Backlog Screenshot 1" src="https://github.com/user-attachments/assets/3a471bb9-37c0-433e-b03f-737fcb82a8b8" />
+
+<img width="1903" height="953" alt="Jira Board Screenshot" src="https://github.com/user-attachments/assets/6d968381-ff02-43d3-b872-11923b3eec4a" />
+
+<img width="1530" height="672" alt="Unilever Sprint Backlog" src="https://github.com/user-attachments/assets/772687ba-a995-4faa-94fc-153f9ca8c03c" />
+
