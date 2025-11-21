@@ -9,6 +9,10 @@ I worked with a team to analyse and redesign Unilever’s canteen experience by 
 
 [My Role as a Business Analyst](https://github.com/Ehisztee16/Unilever-Canteen-Ordering-Delivery-System--A-Full-Business-Analysis-Lifecycle/blob/main/README.md#my-role-as-a-business-analyst)
 
+[Important Discoveries](https://github.com/Ehisztee16/Unilever-Canteen-Ordering-Delivery-System--A-Full-Business-Analysis-Lifecycle/blob/main/README.md#important-discoveries)
+
+[Tools Used](https://github.com/Ehisztee16/Unilever-Canteen-Ordering-Delivery-System--A-Full-Business-Analysis-Lifecycle/blob/main/README.md#tools-used)
+
 
 
 # Project Overview
