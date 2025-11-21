@@ -3,13 +3,21 @@ I worked with a team to analyse and redesign Unilever’s canteen experience by 
 
 # Table of Contents
 
+[Project Overview](https://github.com/Ehisztee16/Unilever-Canteen-Ordering-Delivery-System--A-Full-Business-Analysis-Lifecycle/blob/main/README.md#project-overview)
+
+[Business Problems](https://github.com/Ehisztee16/Unilever-Canteen-Ordering-Delivery-System--A-Full-Business-Analysis-Lifecycle/blob/main/README.md#business-problems)
+
+[My Role as a Business Analyst](https://github.com/Ehisztee16/Unilever-Canteen-Ordering-Delivery-System--A-Full-Business-Analysis-Lifecycle/blob/main/README.md#my-role-as-a-business-analyst)
+
+
+
 # Project Overview
 Unilever’s UK offices have about 1,500 employees across 12 floors, but only two canteens with limited seating. During peak lunch hours, staff lose an average of 30 to 35 minutes waiting in long queues for food and seating, leading to reduced productivity and dissatisfaction. This proposed online canteen ordering and delivery system allows employees to pre-order meals before 11 a.m., have them delivered to their workstations, and streamline kitchen operations, inventory planning, and payroll deductions. This solution aims to reduce food waste, improve employee satisfaction, and modernize Unilever’s internal operations.
 
 # Business Problems
 The business problems faced by Unilever’s canteen were centred on lost productivity, food shortages, and operational inefficiencies. Employees regularly spent 30 to 35 minutes queuing for lunch, which meant most of their one-hour break was wasted on waiting rather than eating, and this significantly reduced overall productivity across the organisation. At the same time, the canteen struggled with inconsistent food availability because there was no system to forecast demand, causing popular meals to run out while unpopular meals were overproduced and discarded, leading to both dissatisfaction and unnecessary food waste. The manual, non-digital setup also created delays, errors, and a lack of visibility into menus, orders, or performance, leaving the canteen unable to make data-driven decisions or streamline operations. 
 
-# My Role as the Business Analyst
+# My Role as a Business Analyst
 I worked with a team and my responsiblities included the following and in no particular order:
 
 - **Understanding the Current State**
