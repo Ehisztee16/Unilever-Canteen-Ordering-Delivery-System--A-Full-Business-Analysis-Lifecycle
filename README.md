@@ -13,6 +13,7 @@ I worked with a team to analyse and redesign Unilever’s canteen experience by 
 
 [Tools Used](https://github.com/Ehisztee16/Unilever-Canteen-Ordering-Delivery-System--A-Full-Business-Analysis-Lifecycle/blob/main/README.md#tools-used)
 
+[Project Deliverables](https://github.com/Ehisztee16/Unilever-Canteen-Ordering-Delivery-System--A-Full-Business-Analysis-Lifecycle/blob/main/README.md#project-deliverables)
 
 
 # Project Overview
@@ -60,4 +61,5 @@ I worked with a team and my responsiblities included the following and in no par
 
 - **JIRA for sprint creation, backlog management, and Agile documentation.**
 
-  
+# Project Deliverables
+
